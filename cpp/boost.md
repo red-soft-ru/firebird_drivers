@@ -1,7 +1,4 @@
-# Boost.io
-
-> [!NOTE]
-> Do not support Firebird
+# Boost library
 
 [Repo](https://www.boost.io/)
 
