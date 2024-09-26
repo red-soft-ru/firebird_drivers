@@ -40,11 +40,17 @@ Here you can find out the connector for your new project or **contribute** to th
   * [peewee](python/peewee.md)
   * [pyfirebirdsql](python/pyfirebirdsql.md)
 
+### JavaScript
+  * [node-firebird-drivers](js/node_firebird_drivers.md)
+
 
 ## Dead
 
 ### C++
   * [IBPP](cpp/ibpp.md)
+
+### JavaScript
+  * [node-firebird-libfbclient](js/node_firebird_libfbclient.md)
 
 
 ## Do not support Firebird yet
