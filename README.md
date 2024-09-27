@@ -72,6 +72,9 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Perl
   * [Perl-dbd-firebird](perl/perl_dbd_firebird.md)
 
+### Dart
+  * [fbdb](dart/fbdb.md)
+
 
 ## Dead
 
@@ -90,7 +93,7 @@ Here you can find out the connector for your new project or **contribute** to th
 
 ### Lua
   * [fbclient](lua/fbclient.md)
-  
+
 
 ## Do not support Firebird yet
 
