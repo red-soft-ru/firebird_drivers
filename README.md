@@ -88,6 +88,9 @@ Here you can find out the connector for your new project or **contribute** to th
   * [rubyfb](ruby/rubyfb.md)
   * [FireRuby](ruby/fire_ruby.md)
 
+### Lua
+  * [fbclient](lua/fbclient.md)
+  
 
 ## Do not support Firebird yet
 
