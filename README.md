@@ -66,6 +66,9 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Elixir
   * [efirebirdsql](elixir/efirebirdsql.md)
 
+### Rust
+  * [rsfbclient](rust/rsfbclient.md)
+
 
 ## Dead
 
