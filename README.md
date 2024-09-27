@@ -53,6 +53,10 @@ Here you can find out the connector for your new project or **contribute** to th
   * [CI4-PDO-Firebird](php/ci4_pdo_firebird.md)
   * [CodeIgnighter](php/codeigniter.md)
 
+### Pascal
+  * [IBX](pascal/ibx.md)
+  * [ZeosLib](pascal/zeos.md)
+
 
 ## Dead
 
@@ -61,6 +65,9 @@ Here you can find out the connector for your new project or **contribute** to th
 
 ### JavaScript
   * [node-firebird-libfbclient](js/node_firebird_libfbclient.md)
+
+### Pascal
+  * [UIB](pascal/uib.md)
 
 
 ## Do not support Firebird yet
