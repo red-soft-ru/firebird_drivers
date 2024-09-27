@@ -69,6 +69,9 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Rust
   * [rsfbclient](rust/rsfbclient.md)
 
+### Perl
+  * [Perl-dbd-firebird](perl/perl_dbd_firebird.md)
+
 
 ## Dead
 
