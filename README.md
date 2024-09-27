@@ -63,6 +63,9 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Ruby
   * [fb](ruby/fb.md)
 
+### Elixir
+  * [efirebirdsql](elixir/efirebirdsql.md)
+
 
 ## Dead
 
@@ -105,3 +108,6 @@ Here you can find out the connector for your new project or **contribute** to th
   * [Symfony](php/symfony.md)
   * [Zend Framework](php/zend.md)
   * [Phalcom](php/phalcon.md)
+
+### Scala
+
