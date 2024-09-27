@@ -60,6 +60,9 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Go
   * [firebirdsql](go/firebirdsql.md)
 
+### Ruby
+  * [fb](ruby/fb.md)
+
 
 ## Dead
 
@@ -71,6 +74,10 @@ Here you can find out the connector for your new project or **contribute** to th
 
 ### Pascal
   * [UIB](pascal/uib.md)
+
+### Ruby
+  * [rubyfb](ruby/rubyfb.md)
+  * [FireRuby](ruby/fire_ruby.md)
 
 
 ## Do not support Firebird yet
