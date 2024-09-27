@@ -18,6 +18,10 @@ Here you can find out the connector for your new project or **contribute** to th
   * [firebird-driver](python/firebird-driver.md)
   * [fdb](python/fdb.md)
 
+### PHP
+  * [php-firebird](php/php-firebird.md)
+
+
 ## Supported by authors
 
 ### C++
@@ -42,6 +46,12 @@ Here you can find out the connector for your new project or **contribute** to th
 
 ### JavaScript
   * [node-firebird-drivers](js/node_firebird_drivers.md)
+
+### PHP
+  * [yii2-firebird](php/yii2-firebird.md)
+  * [Laravel-firebird](php/laravel-firebird.md)
+  * [CI4-PDO-Firebird](php/ci4_pdo_firebird.md)
+  * [CodeIgnighter](php/codeigniter.md)
 
 
 ## Dead
@@ -73,3 +83,8 @@ Here you can find out the connector for your new project or **contribute** to th
   * [FastAPI](python/fastapi.md)
   * [Tornado](python/tornado.md)
   * [Alembic](python/alembic.md)
+
+### PHP
+  * [Symfony](php/symfony.md)
+  * [Zend Framework](php/zend.md)
+  * [Phalcom](php/phalcon.md)
