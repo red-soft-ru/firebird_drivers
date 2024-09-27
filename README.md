@@ -57,6 +57,9 @@ Here you can find out the connector for your new project or **contribute** to th
   * [IBX](pascal/ibx.md)
   * [ZeosLib](pascal/zeos.md)
 
+### Go
+  * [firebirdsql](go/firebirdsql.md)
+
 
 ## Dead
 
