@@ -90,6 +90,7 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Ruby
   * [rubyfb](ruby/rubyfb.md)
   * [FireRuby](ruby/fire_ruby.md)
+  * [Rails](ruby/rails.md)
 
 ### Lua
   * [fbclient](lua/fbclient.md)
