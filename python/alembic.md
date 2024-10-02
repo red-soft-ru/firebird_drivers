@@ -1,6 +1,3 @@
-# ADO.NET Data Provider
+# Alembic
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
-
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
-
+[Web site](https://alembic.sqlalchemy.org/)

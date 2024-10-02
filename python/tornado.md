@@ -1,6 +1,3 @@
-# ADO.NET Data Provider
+# Tornado
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
-
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
-
+[Web site](https://www.tornadoweb.org/en/stable/index.html)

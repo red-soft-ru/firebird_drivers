@@ -1,6 +1,9 @@
-# ADO.NET Data Provider
+# Firebird driver
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
+[Repo](https://github.com/FirebirdSQL/python3-driver)
 
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
+[Issues](https://github.com/FirebirdSQL/python3-driver/issues)
 
+## Supports
+	* Python 3.8+
+	* Firebird 3+

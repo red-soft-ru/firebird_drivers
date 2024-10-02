@@ -1,6 +1,6 @@
-# ADO.NET Data Provider
+# SqlAlchemy
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
+[Repo](https://github.com/pauldex/sqlalchemy-firebird)
 
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
+[Issues](https://github.com/pauldex/sqlalchemy-firebird/issues)
 

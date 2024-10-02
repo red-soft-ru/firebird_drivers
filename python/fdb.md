@@ -1,6 +1,6 @@
-# ADO.NET Data Provider
+# FDB
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
+[Repo](https://github.com/FirebirdSQL/fdb)
 
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
+[Issues](https://github.com/FirebirdSQL/fdb/issues)
 

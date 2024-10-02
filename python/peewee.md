@@ -1,6 +1,3 @@
-# ADO.NET Data Provider
+# Peewee
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
-
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
-
+[Repo](https://github.com/coleifer/peewee)

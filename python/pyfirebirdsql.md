@@ -1,6 +1,6 @@
-# ADO.NET Data Provider
+# pyfirebirdsql
 
-[Repo](https://github.com/FirebirdSQL/NETProvider)
+[Repo](https://github.com/nakagami/pyfirebirdsql/)
 
-[Issues](https://github.com/FirebirdSQL/NETProvider/issues)
+[Issues](https://github.com/nakagami/pyfirebirdsql/issues)
 
