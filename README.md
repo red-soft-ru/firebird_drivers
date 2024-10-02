@@ -59,11 +59,15 @@ Here you can find out the connector for your new project or **contribute** to th
 
 ### Go
   * [firebirdsql](go/firebirdsql.md)
+  * [GORM firebird driver](go/gorm.md)
 
 ### Ruby
   * [fb](ruby/fb.md)
 
 ### Elixir
+  * [firebirdex](elixir/firebirdex.md)
+
+### Erlang
   * [efirebirdsql](elixir/efirebirdsql.md)
 
 ### Rust

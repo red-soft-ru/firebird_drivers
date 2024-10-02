@@ -4,3 +4,5 @@
 
 [Issues](https://github.com/FirebirdSQL/firebird-odbc-driver/issues)
 
+## Supports
+	* Firebird 2+
