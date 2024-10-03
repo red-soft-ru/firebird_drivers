@@ -58,20 +58,22 @@ Here you can find out the connector for your new project or **contribute** to th
   * [ZeosLib](pascal/zeos.md)
 
 ### Go
-  * [firebirdsql](go/firebirdsql.md)
+  * [Go firebird sql driver](go/firebirdsql.md)
   * [GORM firebird driver](go/gorm.md)
 
 ### Ruby
   * [fb](ruby/fb.md)
 
 ### Elixir
-  * [firebirdex](elixir/firebirdex.md)
+  * [Elixir database driver for Firebird](elixir/firebirdex.md)
+  * [Ecto Firebird adapter](elixir/ecto.md)
 
 ### Erlang
   * [efirebirdsql](elixir/efirebirdsql.md)
 
 ### Rust
   * [rsfbclient](rust/rsfbclient.md)
+  * [firebirust](rust/firebirust.md)
 
 ### Perl
   * [Perl-dbd-firebird](perl/perl_dbd_firebird.md)
@@ -79,11 +81,17 @@ Here you can find out the connector for your new project or **contribute** to th
 ### Dart
   * [fbdb](dart/fbdb.md)
 
+### Julia
+  * [Firebird.il](julia/firebird_jl.md)
+
 
 ## Dead
 
 ### C++
   * [IBPP](cpp/ibpp.md)
+
+### Python
+  * [Zope database adapter](python/firebird_da.md)
 
 ### JavaScript
   * [node-firebird-libfbclient](js/node_firebird_libfbclient.md)
