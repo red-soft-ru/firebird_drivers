@@ -1,6 +1,8 @@
 # [Firebird drivers](https://github.com/red-soft-ru/firebird_drivers)
 The repository provides a complete list of projects of the connectors for Firebird/RedDatabase grouped by programming languages.
-Here you can find out the connector for your new project or **contribute** to them. Follow the link to find **a repository**, a list of issues and **mentor's email** for help.
+Here you can find out the connector for your new project or **contribute** to them.
+
+How to contribute read [here](how_to_contribute.md).
 
 ## Officially supported by Firebird Foundation
 
