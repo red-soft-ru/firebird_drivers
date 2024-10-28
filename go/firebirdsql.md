@@ -4,7 +4,7 @@
 
 [Issues](https://github.com/nakagami/firebirdsql/issues)
 
-[Example](https://github.com/nakagami/firebirdex?tab=readme-ov-file#example)
+[Example](https://github.com/nakagami/firebirdsql?tab=readme-ov-file#example)
 
 ## Supports
 	* Go-lang 1.20+
